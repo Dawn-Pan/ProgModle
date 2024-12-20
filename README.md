@@ -1,7 +1,7 @@
 
 # ProgModule
 
-[![Current devel version: 0.1.2](https://img.shields.io/badge/devel%20version-0.1.2-blue.svg)](https://github.com/hanjunwei-lab/ProgModule)
+[![Current devel version: 0.1.2](https://img.shields.io/badge/devel%20version-0.1.2-blue.svg)](https://github.com/Dawn-Pan/ProgModule)
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/09b138b2fa9242229f081cd180f6fc91)](https://app.codacy.com/gh/Dawn-Pan/ProgModule/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
@@ -14,7 +14,7 @@ ProgModule is a bioinformatics tool to identify driver modules for predicting th
 
 `ProgModule` is a bioinformatics tool to identify driver modules for predicting the prognosis of cancer patients, which balances the exclusive coverage of mutations and simultaneously considers the mutation combination-mediated mechanism in cancer.
 
-![A simple schema of the labyrinth](inst/flowchart.png)
+![A simple schema of the labyrinth](inst/Figure 1.tif)
 
 
 ## A notice on operating system compatibility
@@ -31,7 +31,7 @@ Install `ProgModule` using:
 
 ``` r
 install.packages('devtools')
-devtools::install_github("hanjunwei-lab/ProgModule")
+devtools::install_github("Dawn-Pan/ProgModule")
 ```
 
 
