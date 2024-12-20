@@ -14,7 +14,7 @@ ProgModule is a bioinformatics tool to identify driver modules for predicting th
 
 `ProgModule` is a bioinformatics tool to identify driver modules for predicting the prognosis of cancer patients, which balances the exclusive coverage of mutations and simultaneously considers the mutation combination-mediated mechanism in cancer.
 
-![A simple schema of the labyrinth](inst/Figure 1.tif)
+![A simple schema of the labyrinth](inst/Figure 1.png)
 
 
 ## A notice on operating system compatibility
