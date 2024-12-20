@@ -6,8 +6,7 @@
 [![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/09b138b2fa9242229f081cd180f6fc91)](https://app.codacy.com/gh/Dawn-Pan/ProgModule/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
-[![Last commit](https://img.shields.io/github/last-commit/hanjunwei-lab/ProgModule.svg)](https://github.com/hanjunwei-lab/ProgModule/commits/master)
-[![Code size](https://img.shields.io/github/languages/code-size/hanjunwei-lab/ProgModule.svg)](https://github.com/hanjunwei-lab/ProgModule)
+
 
 ProgModule is a bioinformatics tool to identify driver modules for predicting the prognosis of cancer patients.
 
