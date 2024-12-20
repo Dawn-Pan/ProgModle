@@ -31,7 +31,7 @@ Install `ProgModule` using:
 
 ``` r
 install.packages('devtools')
-devtools::install_github("Dawn-Pan/ProgModule")
+devtools::install_github("hanjunwei-lab/ProgModule")
 ```
 
 
